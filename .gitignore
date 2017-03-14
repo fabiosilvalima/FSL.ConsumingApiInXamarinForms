@@ -9,3 +9,9 @@
 /FSL.XF3/FSL.XF3/FSL.XF3.Droid/obj/Debug
 /FSL.XF3/FSL.XF3/FSL.XF3.iOS/obj/iPhone/Debug
 /FSL.XF3/packages
+/.vs/FSL.ConsumingApiInXamarinForms.Api/v14
+/.vs/FSL.XFApi/v14
+/FSL.XFApi/bin
+/FSL.XFApi/obj/Debug
+/packages
+*.user

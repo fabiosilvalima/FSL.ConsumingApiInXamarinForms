@@ -11,8 +11,11 @@ O objetivo é exemplificar passo a passo como consumir serviços Restful API no 
 >
 > Português: https://www.fabiosilvalima.net/como-consumir-api-restful-no-xamarin-forms/
 
-
 Licence:
 ---
 
 - Licence MIT
+
+---
+
+![Programação no Mundo Real Design Patterns Vol. 1](https://www.fabiosilvalima.net/wp-content/uploads/2017/03/fabiosilvalima-ebook-design-patterns-INSTAGRAM.jpg)

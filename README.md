@@ -4,7 +4,7 @@
 
 O objetivo é exemplificar passo a passo como consumir serviços Restful API no Xamarin Forms de forma manual para entendimento.
 
-![enter image description here](https://www.fabiosilvalima.net/wp-content/uploads/2017/02/fabiosilvalima-ebook-design-patterns-INSTAGRAM-2.png)
+![Como Consumir API Restful no Xamarin Forms](https://www.fabiosilvalima.net/wp-content/uploads/2017/03/como-consumir-api-restful-no-xamarin-forms2.jpg)
 
 
 > **ARTIGO COMPLETO:**
@@ -18,4 +18,6 @@ Licence:
 
 ---
 
-![Programação no Mundo Real Design Patterns Vol. 1](https://www.fabiosilvalima.net/wp-content/uploads/2017/03/fabiosilvalima-ebook-design-patterns-INSTAGRAM.jpg)
+![Programação no Mundo Real Design Patterns Vol. 1](https://www.fabiosilvalima.net/wp-content/uploads/2017/02/fabiosilvalima-ebook-design-patterns-INSTAGRAM-2.png)
+
+https://www.fabiosilvalima.net/ebooks/design-patterns-vol-1/

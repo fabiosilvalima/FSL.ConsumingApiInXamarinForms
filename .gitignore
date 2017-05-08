@@ -15,3 +15,6 @@
 /FSL.XFApi/obj/Debug
 /packages
 *.user
+/WebApplication1/bin
+/.vs/WebApplication1/v14
+/WebApplication1/obj/Debug
